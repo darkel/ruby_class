@@ -21,7 +21,7 @@ verb2 = gets.chomp!
 
 
 str =  <<EOF
-Dear #{relative},
+Dear #{2 + 2},
 Tonight I went to an #{adjective1} class on learning to #{verb}.
 The class was okay, but there was a person named #{person} in there who's #{body_part} smelled of #{smelly}.
 It was so bad that I had to ask them to #{verb2}.
